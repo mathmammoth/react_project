@@ -1,0 +1,10 @@
+button {
+    background: navajowhite;
+    color: darkmagenta;
+    font-weight: bolder;
+}
+
+button:active {
+    background: blueviolet;
+    transition: color 0s;
+}
