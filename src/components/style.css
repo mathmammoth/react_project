@@ -1,0 +1,18 @@
+h1 {
+    color: darkgreen;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+#seth {
+    font-weight: bold;
+    color: yellow;
+    font-size: large;
+    border: 5px red;
+    background: red;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+
